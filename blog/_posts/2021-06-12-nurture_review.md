@@ -23,9 +23,7 @@ Lifelike is a beautiful piano intro that really sets the mood for nurture. It is
 ### (2.) Look at the Sky
 Look at the Sky an upbeat joyful, and some would describe "hopeful", song. This song was revealed during [Porter's Secret Sky 2020 set](https://www.youtube.com/watch?v=4KGsgpFiswQ){:class="ext youtube"}, at the end. After fans begged and begged, this song released as a single on January 27, 2021. Porter said in the description of the [Look at the Sky (Lyric Video)](https://www.youtube.com/watch?v=PuMz4v5PYKc){:class="ext youtube"} on YouTube, 
 
-```py
-"i see 'Look at the Sky' as a mantra to remind myself that there’s good reason for hope, and that people can meaningfully improve themselves and the world." 
-```
+> "i see 'Look at the Sky' as a mantra to remind myself that there’s good reason for hope, and that people can meaningfully improve themselves and the world." 
 
 I can see this throughout the entire song, with lyrics like:
 
@@ -69,4 +67,3 @@ When the next track (musician) came out as a single, [@alivenextyear](https://tw
 
 [![Porter's Tweet replying "INCORRECTO" to @alivenextyear](https://i.imgur.com/MmmIyRw.png)](https://twitter.com/porterrobinson/status/1367203283203424260)
 
-....
