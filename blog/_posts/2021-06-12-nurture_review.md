@@ -311,6 +311,8 @@ Porter says this while talking about this track, and I think he really pulled it
 
 A simple, complex, sweet, tear-jerker, closer to this amazing album.
 
+-----------------
+
 ## How I score reviews.
 Now since this is my first "music review", I suppose I have to go into how I score these albums and such before I score nurture.
 
@@ -326,6 +328,8 @@ Most important thing is that:
 
 5/5 means it is GREAT, AMAZING you might say. However, I probably wouldn't say it's *perfect*, unless of course I specifically say it is perfect.
 
+-----------------
+
 ## Score and final thoughts.
 
 `Out of 5`: 5/5
@@ -336,6 +340,8 @@ I truly think this album is **PERFECT!**
 I really don't know how to describe my love with this album. I really just have a deep love with this album, and the upcoming live show. I love everything about it, the production, the lyrics, the meaning to all of it, is really good, and I love it lots.
 
 remember, its just my opinion ;)
+
+-----------------
 
 ## Sources
 
