@@ -3,6 +3,8 @@ title: devices
 style: self
 ---
 
+<h1 class="emphesis-highlight">my devices:</h1>
+
 # main pc
 * CPU: Intel i9-9900K
 * RAM: 16GB DDR4
