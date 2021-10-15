@@ -14,7 +14,7 @@ i'm mmatt (he/him) :)
 [and more!!!](https://dotherightthing.carrd.co/)
 
 ## USE CODE MATT
-#epicpartner
+yo you can use code `matt` on the Epic Games Store, **AND** the bottom right of the Fortnite item shop. You should try it out (and more importantly, give me money) #ad :)
 
 ## about me
 i usually stream video games (and sometimes programming) on my [twitch](https://mmatt.link/live){:class="ext other"}.
