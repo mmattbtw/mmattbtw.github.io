@@ -14,7 +14,9 @@ style: self
 * PC Part Picker: [Click Here](https://pcpartpicker.com/list/wsNGK4)
 
 # main laptop
+
 ## Apple Macbook Air (Late 2020) - M1
+
 * CPU: Apple M1
 * GPU: 8 Core GPU from M1
 * RAM: 16GB
