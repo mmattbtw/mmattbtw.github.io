@@ -5,7 +5,7 @@ style: self
 
 <h1 class="emphasis-highlight">my devices:</h1>
 
-
+<br>
 
 # main pc
 * CPU: Intel i9-9900K
@@ -18,7 +18,7 @@ style: self
 * PC Part Picker: [Click Here](https://pcpartpicker.com/list/wsNGK4)
 
 # main laptop
-
+<br>
 ## Apple Macbook Air (Late 2020) - M1
 
 * CPU: Apple M1
