@@ -4,7 +4,7 @@ style: self
 ---
 <h1 class="emphasis-highlight">yo o/</h1>
 
-i'm mmatt (he/him) :)
+i'm mmatt :)
 
 ## support these links below
 [black lives matter](https://blacklivesmatters.carrd.co)
