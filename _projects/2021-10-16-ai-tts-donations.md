@@ -34,4 +34,4 @@ This project uses the [Uberduck.ai](https://uberduck.ai) API, which basically ma
 
 ![](/assets/images/ai_tts.png)
 
-Like some of my other projects, this one is still in heavy development, so stay tuned to the [GitHub Repo](https://github.com/mmattDonk/ai-tts-donations){:class="ext github"} and the [Discord Server](https://discord.gg/mvVePs2Hs2).
+Like some of my other projects, this one is still in heavy development, so stay tuned to the [GitHub Repo](https://github.com/mmattDonk/ai-tts-donations){:class="ext github"} and the [Discord Server](https://discord.gg/mvVePs2Hs2){:class="ext other"}.
