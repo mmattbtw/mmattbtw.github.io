@@ -1,9 +1,9 @@
 ---
 title: devices
-style: self
+style: devices
 ---
 
-<h1 class="emphasis-highlight">my devices:</h1>
+<h1 class="emphasis-highlight">/devices</h1>
 
 <br>
 
