@@ -2,24 +2,26 @@
 title: about
 style: self
 ---
-<h1 class="emphasis-highlight">yo o/</h1>
+<h1 class="emphasis-highlight">/home</h1>
 
-i'm mmatt :)
+mmatt.net
 
 ## support these links below
 [black lives matter](https://blacklivesmatters.carrd.co)
 
 [stop aapi hate](https://anti-asianviolenceresources.carrd.co)
 
-[and more!!!](https://dotherightthing.carrd.co/)
+[more](https://dotherightthing.carrd.co/)
 
 ## USE CODE MATT
-yo you can use code `matt` on the Epic Games Store, **AND** the bottom right of the Fortnite item shop. You should try it out (and more importantly, give me money) #ad :)
+yo you can use code `matt` on the Epic Games Store, **AND** the bottom right of the Fortnite item shop. You should try it out (and more importantly, give me money, like lots of money, like so much money, like insane amounts of money, like huge profits, insane profit margins, juse use code matt, not hard, its literally 4 letters) #ad :)
 
 ## about me
 i usually stream video games (and sometimes programming) on my [twitch](https://mmatt.link/live){:class="ext other"}.
 
-my main programming project right now is [doob](https://doobbot.com){:class="ext other"}, it's kinda a passion project because i've always wanted to start learning coding, and this has been fun making a Discord bot
+my main programming project right now is [doob](https://doobbot.com){:class="ext other"}, it's kinda a passion project because i've always wanted to start learning programming, and this has been fun making a Discord bot
+
+you can learn more about my other projects over at [/projects](https://mmatt.net/projects)
 
 i enjoy collecting vinyl records, and i enjoy listening to music, in the next section, you will see some of the artists i like to listen to!
 
@@ -35,7 +37,9 @@ i like to listen to:
 * Fraxiom + Gupi
 * Kid Cudi
 
-[and more!!!](https://last.fm/user/mmattbtw){:class="ext other"}
+i also regularly expand my music taste, so if you have any suggestions, let me know
+
+[way more more](https://last.fm/user/mmattbtw){:class="ext other"}
 
 ### my vinyl record collection
 i own:
@@ -51,12 +55,12 @@ i own:
 * porter robinson - nurture (white/transparent vinyl [from the webstore])
 * kids see ghosts - kids see ghosts (pink vinyl)
 
-[and maybe more!!](https://www.discogs.com/user/mmattbtw){:class="ext other"}
+[more!!](https://www.discogs.com/user/mmattbtw){:class="ext other"}
 
 ## contact
 formal contact can be done over [email](https://mmatt.link/email){:class="ext other"}
 
-other contact can be done through discord (mmatt#0001) or [twitter](https://twitter.com/mmattbtw){:class="ext twitter"}
+other contact can be done through discord [mmatt#0001](https://discord.com/users/308000668181069824){:class="ext other"} or [twitter](https://twitter.com/mmattbtw){:class="ext twitter"}
 
 ## socials
 [twitter](https://mmatt.link/twt){:class="ext twitter"}
@@ -68,6 +72,10 @@ other contact can be done through discord (mmatt#0001) or [twitter](https://twit
 [github](https://github.com/mmattbtw){:class="ext github"}
 
 [music (lastfm)](https://last.fm/user/mmattbtw){:class="ext other"}
+
+[discogs](https://discogs.com/user/mmattbtw){:class="ext other"}
+
+[musicboard](https://musicboard.app/mmatt){:class="ext other"}
 
 [and more?](https://mmatt.link/soc){:class="ext other"}
 

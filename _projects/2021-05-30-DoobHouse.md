@@ -3,7 +3,7 @@ title: DoobHouse # the title
 description: a DogeHouse bot # description
 tags:	
     - dogehouse
-    - code
+    - doobdev
   # a list of tags.
 startDate: 2021-03-22 # the date the project started, in format YYYY-MM-DD
 endDate: 2021-05-02 # used only for projects where status is "complete" or "scrapped"
