@@ -1,6 +1,6 @@
 ---
 title: devices
-style: self
+style: devices
 ---
 
 <h1 class="emphasis-highlight">my devices:</h1>
