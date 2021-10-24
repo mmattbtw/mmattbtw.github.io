@@ -15,7 +15,7 @@ style: devices
 * Amazon Listing: [Click Here](https://www.amazon.com/dp/B07J1W2NHB/ref=nav_timeline_asin?_encoding=UTF8&psc=1)
 * Keyboard: [Glorious GMMK TKL: Gateron Reds](https://www.pcgamingrace.com/products/gmmk-tkl-tenkeyless-brown-switch)
 * Mouse: Finalmouse Starlight-12 (Gold) - 400 DPI
-* Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/23860331)
+* Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/47318779)
 * PC Part Picker: [Click Here](https://pcpartpicker.com/list/wsNGK4)
 
 # main laptop
