@@ -25,7 +25,7 @@ style: devices
 * CPU: Apple M1
 * GPU: 8 Core GPU from M1
 * RAM: 16GB
-* OS: macOS Montery
+* OS: macOS Monterey (12.0 Beta)
 
 # Streaming Laptop
 * CPU: Intel i7-7700HQ
