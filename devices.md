@@ -12,6 +12,9 @@ style: devices
 * RAM: 16GB DDR4
 * GPU: RTX 2070
 * OS: Windows 11
+* Storage:
+	* NVME: WD_BLACK: 1TB
+	* SSD: Random generic one from how the computer came: 1TB
 * Amazon Listing: [Click Here](https://www.amazon.com/dp/B07J1W2NHB/ref=nav_timeline_asin?_encoding=UTF8&psc=1)
 * Keyboard: [Glorious GMMK TKL: Gateron Reds](https://www.pcgamingrace.com/products/gmmk-tkl-tenkeyless-brown-switch)
 * Mouse: Finalmouse Starlight-12 (Gold) - 400 DPI
@@ -25,12 +28,16 @@ style: devices
 * CPU: Apple M1
 * GPU: 8 Core GPU from M1
 * RAM: 16GB
+* Storage:
+	* SSD(?): 500GB
 * OS: macOS Monterey (12.0 Beta)
 
 # Streaming Laptop
 * CPU: Intel i7-7700HQ
 * RAM: 8GB Kingston 2400MHz
 * GPU: GTX 1050 (4 GB)
+* Storage:
+	* HDD: 1TB
 * OS: Arch Linux 
 * Capture Card: Elgato HD60s
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/21437525)
