@@ -77,6 +77,8 @@ other contact can be done through discord [mmatt#0001](https://discord.com/users
 
 [musicboard](https://musicboard.app/mmatt){:class="ext other"}
 
+[spacehey (its like myspace 2, also huge virtual self warning i am a huge nerd)](https://spacehey.com/mmatt){:class="ext other"}
+
 [and more?](https://mmatt.link/soc){:class="ext other"}
 
 ## some other stuff about the site
