@@ -5,9 +5,7 @@ style: devices
 
 <h1 class="emphasis-highlight">/devices</h1>
 
-<br>
-
-# main pc
+## main pc
 * CPU: Intel i9-9900K
 * RAM: 16GB DDR4
 * GPU: RTX 2070
@@ -21,7 +19,7 @@ style: devices
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/47318779)
 * PC Part Picker: [Click Here](https://pcpartpicker.com/list/wsNGK4)
 
-# main laptop
+## main laptop
 
 * Model: Apple Macbook Air (Late 2020) - M1
 
@@ -32,7 +30,7 @@ style: devices
 	* SSD(?): 500GB
 * OS: macOS Monterey (12.0 Beta)
 
-# Streaming Laptop
+## Streaming Laptop
 * CPU: Intel i7-7700HQ
 * RAM: 8GB Kingston 2400MHz
 * GPU: GTX 1050 (4 GB)
@@ -41,3 +39,13 @@ style: devices
 * OS: Windows 11 
 * Capture Card: Elgato HD60s
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/21437525)
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('mmatt', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
