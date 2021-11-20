@@ -38,7 +38,7 @@ style: devices
 * GPU: GTX 1050 (4 GB)
 * Storage:
 	* HDD: 1TB
-* OS: Arch Linux 
+* OS: Windows 11 
 * Capture Card: Elgato HD60s
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/21437525)
 
