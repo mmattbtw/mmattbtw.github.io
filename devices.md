@@ -41,5 +41,3 @@ style: devices
 * OS: Windows 11 
 * Capture Card: Elgato HD60s
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/21437525)
-
-* Probably not going to be used for streaming anymore, or maybe I will try to stream on Arch, idk
