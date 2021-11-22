@@ -81,6 +81,19 @@ other contact can be done through discord [mmatt#0001](https://discord.com/users
 
 [and more?](https://mmatt.link/soc){:class="ext other"}
 
+## support me
+if you ever feel like helping me out, here are some ways:
+* [streamelements donations](https://streamelements.com/mmattbtw/tip){:class="ext other"} - direct donations, shows up on stream
+* [ko-fi donations](https://ko-fi.com/mmatt){:class="ext other"} - get perks for [doob](https://doobbot.com){:class="ext other"} , my discord bot | ko-fi doesn't take any fees, this is the most prefered
+* [patreon subscription](https://patreon.com/doobdev){:class="ext other"} - get perks for [doob](https://doobbot.com){:class="ext other"}
+
+---
+
+Referal codes:
+* [privacy.com](https://privacy.com/join/9X6CP){:class="ext other"}
+* [digitalocean](https://www.digitalocean.com/?refcode=3470e3b80f7c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge){:class="ext other"}
+* [epic games store](https://www.epicgames.com/store/p/fortnite?epic_creator_id=0caf473a446a4837a448dce55f063ebc&epic_game_id=fortnite){:class="ext other"} - you can also use code matt in the fortnite item shop #EpicPartner
+
 ## some other stuff about the site
 This site was made by [AndyThePie](https://github.com/andythepie){:class="ext github"} on GitHub and is powered using the excellent [Jekyll](https://jekyllrb.com){:class="ext other"}, and hosted with GitHub Pages. Its icons come from a subsetted version of [Font Awesome 5](https://fontawesome.com){:class="ext other"}. You can find the source code of the site [here](https://github.com/andythepie/andythepie.github.io){:class="ext github"} (although I wouldn't recommend it).
 
