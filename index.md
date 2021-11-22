@@ -98,3 +98,13 @@ Referal codes:
 This site was made by [AndyThePie](https://github.com/andythepie){:class="ext github"} on GitHub and is powered using the excellent [Jekyll](https://jekyllrb.com){:class="ext other"}, and hosted with GitHub Pages. Its icons come from a subsetted version of [Font Awesome 5](https://fontawesome.com){:class="ext other"}. You can find the source code of the site [here](https://github.com/andythepie/andythepie.github.io){:class="ext github"} (although I wouldn't recommend it).
 
 All content on this website is under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode){:class="ext other"}.
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('mmatt', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
