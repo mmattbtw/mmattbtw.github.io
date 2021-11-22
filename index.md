@@ -90,8 +90,8 @@ if you ever feel like helping me out, here are some ways:
 ---
 
 Referal codes:
-* [privacy.com](https://privacy.com/join/9X6CP){:class="ext other"}
-* [digitalocean](https://www.digitalocean.com/?refcode=3470e3b80f7c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge){:class="ext other"}
+* [privacy.com](https://privacy.com/join/9X6CP){:class="ext other"} - get $10 in privacy.com credit to use on anything
+* [digitalocean](https://www.digitalocean.com/?refcode=3470e3b80f7c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge){:class="ext other"} - get $100 in digitalocean credit to use on digitalocean servers
 * [epic games store](https://www.epicgames.com/store/p/fortnite?epic_creator_id=0caf473a446a4837a448dce55f063ebc&epic_game_id=fortnite){:class="ext other"} - you can also use code matt in the fortnite item shop #EpicPartner
 
 ## some other stuff about the site
