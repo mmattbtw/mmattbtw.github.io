@@ -1,50 +1,43 @@
 ---
 title: projects
+description: "some things i [am working / have worked] on"
 layout: listing
 style: projects
+theme_color: "#30d7f2"
 ---
 <!-- projects listing - not to be confused with an individual project's page -->
 <h1 class="emphasis-highlight">/projects</h1>
-<p class="subtitle">some things i [am working / have worked] on</p>
+<p class="subheader">{{page.description}}</p>
 
 {% assign projects = site.projects | sort: "startDate" | reverse %}
 
-<h2>current projects</h2>
-{% for page in projects %}
-    {% if page.status == "wip" or page.status == "on_hold" %}
-    <div class="{{page.status}} project" style="background-image:url({{page.headerImage}}"> 
-        <div class="inner-content">
-            <span class="smoltext">
-                started {{page.startDate | date_to_string | downcase}} {% if page.status == "on_hold" %} [on hold] {% endif %}
-            </span> <br>
-            <h3>
-                <a href="{{ page.url }}">{{ page.title }}</a>
-            </h3><br>
-            {{ page.description }} <br>
-            {% for tag in page.tags %}
-                <span class="tag">{{tag}}</span> 
-            {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-{% endfor %}
+{% comment %} because you can't have "where x *or* y" {% endcomment %}
+{% assign current = wip | concat: on_hold | sort: "date" | reverse %}
+{% assign past = completed | concat: scrapped | sort: "endDate" | reverse %}
 
-<h2>past projects</h2>
-{% for page in projects %}
-    {% if page.status == "scrapped" or page.status == "complete" %}
-    <div class="{{page.status}} project" style="background-image:url({{page.headerImage}})"> 
-        <div class="inner-content">
-            <span class="smoltext">
-                {% if page.status == "complete" %} completed {% else %} scrapped {% endif %} {{page.startDate | date_to_string | downcase}} {% if page.status == "scrapped" %} :( {% else %} :D {% endif %}
-            </span> <br>
-            <h3>
-                <a href="{{ page.url }}">{{ page.title }}</a>
-            </h3><br>
-            {{ page.description }} <br>
-            {% for tag in page.tags %}
-                <span class="tag">{{tag}}</span>     
-            {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-{% endfor %}
+{% comment %} the more i use liquid the more i hate it {% endcomment %}
+{% assign current.size = current | size %}
+
+<span class="project-category">
+	<h2>current project{% if current.size != 1%}s{%endif%}</h2>
+	<span>({{ current.size }})</span>
+</span>
+{% if current.size == 0 %}
+	<p>nothing here… for now.</p>
+{% else %}
+	{% for page in current %}
+		{% include block.html type="project" %}
+	{% endfor %}
+{% endif %}
+
+<span class="project-category">
+	<h2>past projects</h2>
+	<span>({{ completed | size }} completed, {{ scrapped | size }} scrapped)</span>
+</span>
+{% if past.size == 0 %}
+	<p>nothing here… yet.</p>
+{% else %}
+	{% for page in past %}
+		{% include block.html type="project" %}
+	{% endfor %}
+{% endif %}
