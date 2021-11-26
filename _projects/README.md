@@ -1,20 +1,16 @@
-# this is where projects go!
+# this is a readme
 
-in case you forgot the format…
+The YAML front matter for the files here should be something like:
 
-file names go like:
-```
-YYYY-MM-DD-name.md
-```
-
-and front matter is like:
 ```yaml
-title: "the title of the post, project, or what not"
-description: "give a short description of the project."
-image: "a url to the banner image of the project!"
-type: "type of project, i guess"
-tags: # should be a list.
-  - js
-endDate: 2020-02-23 # when the project ended. do not include if the project is ongoing.
-status: "complete" # status can be: "complete", "wip", "on_hold", or "scrapped"
+title: # the title
+description: # description
+tags:	
+  # a list of tags.
+startDate: # the date the project started, in format YYYY-MM-DD
+endDate: # used only for projects where status is "complete" or "scrapped"
+status: # status can be: "complete", "wip", "on_hold", or "scrapped"
+headerImage: # header image. please refer to image relative to site root.
 ```
+
+Just leaving this here in case I end up forgetting about all of this.

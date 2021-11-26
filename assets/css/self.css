@@ -1,7 +1,7 @@
-/* color variables for default pages */
-
-:root{
-	--background: #d1d4cb;
-	--highlight: #4dff81cc;
-	--scrollbar: #00c554;
+body{
+    background: #D1D4CB;
 }
+.emphasis-highlight{
+    background: #4DFF81CC;
+}
+

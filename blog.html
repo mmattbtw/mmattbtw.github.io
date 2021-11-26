@@ -1,13 +1,28 @@
 ---
-title: blog
-description: "i just be talking"
+title: blog 
 layout: listing
 style: blog
-theme_color: "#F2D430"
 ---
+<style>
+    div > div{
+        padding: 1em;
+    }
+</style>
 <h1 class="emphasis-highlight">/blog</h1>
-<p class="subheader">{{page.description}}</p>
+<p class="subtitle">i just be talking</p>
 
 {% for post in site.posts %}
-	{% include block.html type="post" %}
+<div class="post" style="background-image:linear-gradient(#f6e479C4, #f6e479C4),url({{post.headerImage}});"> 
+    <div class="inner-content">
+        <span class="smoltext">
+            {{post.date | date_to_string | downcase}}
+        </span> <br> 
+        <h3>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3> <br>
+        <span>
+            {{ post.description }} 
+        </span>
+    </div>
+</div>
 {% endfor %}
