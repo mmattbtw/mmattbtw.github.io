@@ -22,7 +22,7 @@ Hello everyone! I come to you with some Channel Point reward ideas, based on som
 
 Before I start I'm gonna leave a quick disclaimer:
 
-**u/mmattbtw is NOT a developer, staff member, or affiliated in any means with these software / programs I (u/mmattbtw) uses in this guide, I am not responsible for anything going on with the development and progress of any of these programs.**
+**mmattbtw is NOT a developer, staff member, or affiliated in any means with these software / programs I (mmattbtw) uses in this guide, I am not responsible for anything going on with the development and progress of any of these programs.**
 
 First I have the emote pop ups on my screen using [Triggerfyre](https://overlays.thefyrewire.com/widgets/triggerfyre/) (you could also use [Mix It Up](https://mixitupapp.com/) however for my stream I used Triggerfyre.) 
 
