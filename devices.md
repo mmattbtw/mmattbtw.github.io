@@ -9,7 +9,7 @@ style: devices
 * CPU: Intel i9-9900K
 * RAM: 16GB DDR4
 * GPU: RTX 2070
-* OS: Windows 11
+* OS: Windows 10
 * Storage:
 	* NVME: WD_BLACK: 1TB
 	* SSD: Random generic one from how the computer came: 1TB
