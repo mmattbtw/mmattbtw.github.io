@@ -19,7 +19,7 @@ yo you can use code `matt` on the Epic Games Store, **AND** the bottom right of 
 ## about me
 i usually stream video games (and sometimes programming) on my [twitch](https://mmatt.link/live){:class="ext other"}.
 
-my main programming project right now is [doob](https://doobbot.com){:class="ext other"}, it's kinda a passion project because i've always wanted to start learning programming, and this has been fun making a Discord bot
+my main programming project right now is ????
 
 you can learn more about my other projects over at [/projects](https://mmatt.net/projects)
 
