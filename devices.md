@@ -5,11 +5,13 @@ style: devices
 
 <h1 class="emphasis-highlight">/devices</h1>
 
+my specs:
+
 ## main pc
 * CPU: Intel i9-9900K
 * RAM: 16GB DDR4
 * GPU: RTX 2070
-* OS: Windows 10
+* OS: Windows 11
 * Storage:
 	* NVME: WD_BLACK: 1TB
 	* SSD: Random generic one from how the computer came: 1TB
@@ -28,7 +30,7 @@ style: devices
 * RAM: 16GB
 * Storage:
 	* SSD(?): 500GB
-* OS: macOS Monterey (12.0 Beta)
+* OS: macOS Monterey (12.2)
 
 ## Streaming Laptop
 * CPU: Intel i7-7700HQ
