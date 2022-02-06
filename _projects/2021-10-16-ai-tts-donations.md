@@ -13,7 +13,7 @@ headerImage: /assets/images/ai_tts.png # header image. please refer to image rel
 
 This is a project that was made specifically for [elpws](https://twitch.tv/elpws){:class="ext other"} . He always wanted the AI TTS voices used on streamers like Forsen and xQc. I wanted to help him out, however I didn't know of any way to use previous AI voices. I didn't want to train a bunch of voices from scratch, so I didn't know what to do for a while.
 
-Until I got a whisper from [Tajj](https://twitch.tv/tajj){:class="ext other"} . I didn't konw he whispered me until a couple days later, but as soon as he told me, I went ahead and got to work.
+Until I got a whisper from [Tajj](https://twitch.tv/tajj){:class="ext other"} . I didn't know he whispered me until a couple days later, but as soon as he told me, I went ahead and got to work.
 
 ![](/assets/images/tajj_screenshot.png)
 
