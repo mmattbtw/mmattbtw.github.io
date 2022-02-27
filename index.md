@@ -38,6 +38,20 @@ i also regularly expand my music taste, so if you have any suggestions, let me k
 
 [way more more](https://last.fm/user/mmattbtw){:class="ext other"}
 
+### required listening
+* [lil b - im god](https://www.youtube.com/watch?v=ZG6zsHUCum4){:class="ext youtube"} [(the live version goes too)](https://www.youtube.com/watch?v=yTC8ECjQBp8)
+* [virtual self - god rays](https://www.youtube.com/watch?v=WunyRgaA_ws){:class="ext youtube"} (required watching too, the visuals/lights on this track is insane and i want to see it live one day)
+* [kanye west - wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h?si=525a126aee36406d){:class="ext other"} (listen to this song with the most high quality head phones you can, trust)
+* [sweet trip - pro: lov: ad](https://www.youtube.com/watch?v=DlSIznmujYM){:class="ext youtube"}
+* [SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES](https://www.youtube.com/watch?v=AC8h4HnWyys){:class="ext youtube"} (i know this is an album, but its worth it, listen to it [NOW](https://cdn.7tv.app/emote/61e14854950a8915e1708862/4x){:class="ext other"})
+* [magdalena bay - you lose!](https://www.youtube.com/watch?v=FQPXX_eZZAk){:class="ext youtube"}
+* [charli xcx - forever](https://www.youtube.com/watch?v=TbJE-KVZvTA){:class="ext youtube"}
+* [frank ocean - chanel](https://www.youtube.com/watch?v=XnbsIl2BnWw){:class="ext youtube"}
+* [frank ocean - self control](https://www.youtube.com/watch?v=BME88lS6aVY){:class="ext youtube"}
+* [frank ocean - solo](https://www.youtube.com/watch?v=X_SEwgDl02E){:class="ext youtube"}
+* [frank ocean - blonde](https://www.youtube.com/playlist?list=PLzoqV_VvWIwGzYTcm3r1JwqgQOBXTvKyd){:class="ext youtube"} (just listen to the whole album ig)
+* [a$ap rocky - lvl](https://www.youtube.com/watch?v=LcSZURoLbis){:class="ext youtube"} (clams casino mfffffffffffffffffffffffffffff!!!!!!!!!)
+
 ### my vinyl record collection
 i own:
 
