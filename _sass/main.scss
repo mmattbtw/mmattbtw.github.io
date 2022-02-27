@@ -11,6 +11,11 @@ a{
     color:inherit;
 }
 
+a:hover{
+    background-color: #4DFF81CC;
+    color: black;
+}
+
 main, nav, footer{
     margin: 0% 20%;
 
@@ -110,11 +115,6 @@ blockquote{
 .emphasis-highlight{
     color:black;
     text-decoration: none;
-}
-
-a:hover{
-    background-color: .emphasis-highlight;
-    color: black;
 }
 
 .smoltext{
