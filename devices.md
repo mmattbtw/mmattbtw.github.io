@@ -41,13 +41,3 @@ my specs:
 * OS: Windows 11 
 * Capture Card: Elgato HD60s
 * Benchmark: [Click Here](https://www.userbenchmark.com/UserRun/21437525)
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('mmatt', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
