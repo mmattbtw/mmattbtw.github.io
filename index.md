@@ -94,9 +94,11 @@ other contact can be done through discord [mmatt#0001](https://discord.com/users
 
 ## support me
 if you ever feel like helping me out, here are some ways:
+* [github sponsors](https://github.com/sponsors/mmattbtw){:class="ext github"} - i prefer this because github matches donations i believe!~
+-------
 * [streamelements donations](https://streamelements.com/mmattbtw/tip){:class="ext other"} - direct donations, shows up on stream
-* [ko-fi donations](https://ko-fi.com/mmatt){:class="ext other"} - get perks for [doob](https://doobbot.com){:class="ext other"} , my discord bot | ko-fi doesn't take any fees, this is the most prefered
-* [patreon subscription](https://patreon.com/doobdev){:class="ext other"} - get perks for [doob](https://doobbot.com){:class="ext other"}
+* [ko-fi donations](https://ko-fi.com/mmatt){:class="ext other"}
+* [patreon subscription](https://patreon.com/mmattdonk){:class="ext other"}
 
 ---
 
