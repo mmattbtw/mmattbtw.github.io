@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XDV4KT71FZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XDV4KT71FZ');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI TTS Donations</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/projects.css">
+    <link rel="icon" type="image/svg+xml" href="/favicon.png">
+<link rel="alternate icon" href="/favicon.png">
+    <style>
+        header{
+            background-image:url(/assets/images/ai_tts.png);
+        }
+    </style>
+</head>
+    <nav>
+    <span>
+        
+        <a href="/" >home</a>
+        
+        <a href="/blog.html" >blog</a>
+        
+        <a href="/projects.html" class="emphasis-highlight";">projects</a>
+        
+        <a href="/devices" >devices</a>
+        
+    </span>
+    <span>
+        <span id=mynameis>
+            <span class="emphasis-highlight">mmatt</span> &nbsp;
+        </span>
+        <img src="/assets/logo.png" alt="logo (x, triangle, left angle bracket)" id="logo">
+    </span>
+</nav>
+
+    <header class="wip project">
+        <div>
+            <div class="inner-content">
+                <h1 id="title">AI TTS Donations</h1> 
+                
+                    <span class="tag">twitch</span>
+                
+                    <span class="tag">mmattDonk</span>
+                
+                <p class="subtitle">
+                    A Twitch bot that allows Donations to use AI TTS Voices <br> 
+                    started 03 oct 2021 
+                    
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <p>This is a project that was made specifically for <a href="https://twitch.tv/elpws" class="ext other">elpws</a> . He always wanted the AI TTS voices used on streamers like Forsen and xQc. I wanted to help him out, however I didn’t know of any way to use previous AI voices. I didn’t want to train a bunch of voices from scratch, so I didn’t know what to do for a while.</p>
+
+<p>Until I got a whisper from <a href="https://twitch.tv/tajj" class="ext other">Tajj</a> . I didn’t know he whispered me until a couple days later, but as soon as he told me, I went ahead and got to work.</p>
+
+<p><img src="/assets/images/tajj_screenshot.png" alt="" /></p>
+
+<p>This project uses the <a href="https://uberduck.ai">Uberduck.ai</a> API, which basically makes it so that we can use thousands of previously made voices that were trained by the community. There are some pros, and of course, some cons.</p>
+
+<h3 id="pros">Pros:</h3>
+<ul>
+  <li>Thousands of previously made voices</li>
+  <li>Voice training off the PC (no lag for streamer/training is offsite)</li>
+  <li>Easy to use for the streamer+chatter</li>
+</ul>
+
+<h3 id="cons">Cons:</h3>
+<ul>
+  <li>Inconsistent amount of wait times.
+    <ul>
+      <li>Sometimes the TTS request takes a long time for the request to finish, however sometimes they happen instantly</li>
+    </ul>
+  </li>
+  <li>Request failures sometimes
+    <ul>
+      <li>This isn’t that much of a fail, since we are (or have) implemented a way to circumvent this by just trying the request again. (However, again, this increases waiting times)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/images/ai_tts.png" alt="" /></p>
+
+<p>Like some of my other projects, this one is still in heavy development, so stay tuned to the <a href="https://github.com/mmattDonk/ai-tts-donations" class="ext github">GitHub Repo</a> and the <a href="https://discord.gg/mvVePs2Hs2" class="ext other">Discord Server</a>.</p>
+
+    </main>
+
+    <footer>
+    <script src="/assets/js/scrolltotop.js"></script>
+    <span>built 15 may 2022, modified 15 may 2022</span> 
+    <span>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" style="font-family:'Font Awesome 5 EDITED';text-decoration:none;font-size:larger;">
+                 
+        </a>
+    </span>
+    <button onclick="scrollToTop();">back to top</button>
+</footer>
+</html>
+

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "blog.css",
+	"sources": [
+		"blog.scss"
+	],
+	"sourcesContent": [
+		"body{\n    background: #D4D1CB;\n}\n.emphasis-highlight{\n    background: #308af2cc;\n}\n.post{\n    margin-bottom: 1em;\n}\n\nheader > div{\n    backdrop-filter:blur(2px);\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAA,EACA,UAAU,EAAE,OAAO,GACtB;;AACD,AAAA,mBAAmB,CAAA,EACf,UAAU,EAAE,SAAS,GACxB;;AACD,AAAA,KAAK,CAAA,EACD,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,MAAM,GAAG,GAAG,CAAA,EACR,eAAe,EAAC,SAAS,GAC5B"
+}

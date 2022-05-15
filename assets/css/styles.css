@@ -1,0 +1,67 @@
+@charset "UTF-8";
+@import url("https://brick.freetls.fastly.net/Open+Sans:400,600");
+body { font-family: "Open Sans", sans-serif; margin: 2% 0%; }
+
+a { color: inherit; }
+
+a:hover { background-color: #4DFF81CC; color: black; }
+
+main, nav, footer { margin: 0% 20%; }
+
+@media (max-width: 1280px) { main, nav, footer { margin: 0 10%; } }
+
+@media (max-width: 480px) { main, nav, footer { margin: 0 1em; } main #mynameis, nav #mynameis, footer #mynameis { display: none; } main button, nav button, footer button { display: none; } }
+
+h1, h2, h3 { display: inline-block; margin-bottom: 0em; }
+
+.subtitle { margin-top: -0em; }
+
+code { font-family: "JetBrains Mono", monospace; background: rgba(64, 64, 64, 0.1); display: block; padding: 1em; }
+
+p > code, li > code { padding: 0; display: inline; }
+
+img { max-width: 100%; max-height: 480px; display: block; margin: auto; }
+
+header { display: block; position: relative; margin-top: 1em; background-position: center; background-size: cover; }
+
+header > div { padding: 2em 0; position: relative; }
+
+header > div > div { margin: 0% 20%; }
+
+@media (max-width: 1280px) { header > div > div { margin: 0 10%; } }
+
+@media (max-width: 480px) { header > div > div { margin: 0 1em; } }
+
+nav, footer { background: rgba(32, 32, 32, 0.8); color: white; padding: 0.5em; display: flex; justify-content: space-between; }
+
+nav #logo, footer #logo { filter: invert(100%); height: 1em; display: inline; vertical-align: -0.12rem; }
+
+button { border: none; color: inherit; background: none; text-decoration: underline; }
+
+blockquote { border-left: 2px solid; }
+
+blockquote p { margin-left: 1em; font-style: italic; }
+
+.emphasis-highlight { color: black; text-decoration: none; }
+
+.smoltext { font-size: 0.85rem; }
+
+@font-face { font-family: "Font Awesome 5 EDITED"; src: url("/assets/fonts/fontello.woff2"); }
+
+.ext::before, .ext::after { display: inline-block; font-style: normal; font-variant: normal; text-rendering: auto; -webkit-font-smoothing: antialiased; transform: scale(0.9); }
+
+.ext::before { margin-right: 0.2em; }
+
+.other::after { font-family: "Font Awesome 5 EDITED"; font-weight: 900; content: "\ \f35d"; }
+
+.twitter::before { font-family: "Font Awesome 5 EDITED"; font-weight: 400; content: "\f099"; }
+
+.youtube::before { font-family: "Font Awesome 5 EDITED"; font-weight: 400; content: "\f167"; }
+
+.github::before { font-family: "Font Awesome 5 EDITED"; font-weight: 400; content: "\f113"; }
+
+.inner-content { color: white; }
+
+header > div > div { display: inline-block; background: rgba(0, 0, 0, 0.5); padding: 0.5rem 1rem; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,9 @@
+body { background: #D4D1CB; }
+
+.emphasis-highlight { background: #308af2cc; }
+
+.post { margin-bottom: 1em; }
+
+header > div { backdrop-filter: blur(2px); }
+
+/*# sourceMappingURL=blog.css.map */
